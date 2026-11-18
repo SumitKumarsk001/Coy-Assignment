@@ -1,6 +1,6 @@
 # Part A: Two feature suggestions
 
-> Replace the "What I noticed" lines with your own observations from using the app.
+
 
 ## 1. Anonymous interest signal
 **What I noticed:** _(e.g. after adding a crush, nothing happens until they join or add me back)_
